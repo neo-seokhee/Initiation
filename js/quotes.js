@@ -1,25 +1,25 @@
 const quotes = [
   {
     quotes: 'Covid Blue를 떨쳐내고 이제 그만 집에서 나가자. 움직이자.',
-    author: 'Neo',
+    author: '2022',
   },
   {
     quotes: '저지르자. 거친 파도와 기꺼이 맞닥들이자.',
-    author: 'Neo',
+    author: '2022',
   },
   {
     quotes:
       '내가 잘 하는 것을 더 선명하게 만들고, 장점을 살릴 수 있는 삶의 방식을 찾아 나가자.',
-    author: 'Neo',
+    author: '2022',
   },
   {
     quotes:
       '유튜브, 인스타그램 같은 미디어 중독에서 벗어나고, 시간을 내 스스로의 통제하에 계획하자.',
-    author: 'Neo',
+    author: '2022',
   },
   {
     quotes: `실패하지 않으려고 잔머리 굴리면서 일하지 말자. 정면 승부해서 실패하는 건 괜찮다.  \n 젊었을 때 실패는 자산이니, 실패가 무서워서 아무것도 시도하지 않는 어리석은 짓은 하지 말자.`,
-    author: 'Neo',
+    author: 'Ean',
   },
   {
     quotes:
